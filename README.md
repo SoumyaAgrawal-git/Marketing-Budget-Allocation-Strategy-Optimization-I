@@ -1,4 +1,4 @@
-## Marketing-Budget-Allocation-Strategy-Optimization-I
+## Marketing Budget Allocation Strategy (Optimization-I)
 
 ### Problem Description
 
